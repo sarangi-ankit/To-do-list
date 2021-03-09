@@ -1,0 +1,37 @@
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    color:white;
+}
+#screen{
+    margin:20px;
+    font-size: 30px;
+    border-radius: 10px;;
+}
+.buttons{
+    
+    font-size: 25px;
+    height: 60px;
+    margin:1px;
+    width:60px;
+    background-color:#435560;
+    color:white;
+    border-radius: 7px;
+    
+}
+.container{
+    width:30%;
+    border:solid;
+    border-radius: 9px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 34%;
+    background-color: black;
+    
+}
+table{
+    margin: auto;
+    margin-bottom: 40px;
+
+}
